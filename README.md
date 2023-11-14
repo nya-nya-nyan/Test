@@ -2,7 +2,7 @@
 #### Проекты, выполненные в рамках участия в Мастерской Яндекс.Практикума.
 |**Название проекта**                 |       **Описание проекта**          |       **Стек** 
 |:-------------: |:---------------:| :-------------:|
-|[Анализ данных медицинского центра](https://github.com/nya-nya-nyan/Test/tree/00d2486b4e6b47426aa355de5db4418a81bfc7bf/medical%20center)| Сравнение работы медицинского центра за 2021 и 8 месяцев 2022 года. Анализ выручки и изменений цен на лечение. | python, pandas, seaborn, matplotlib, numpy |
+|[Анализ данных медицинского центра](https://github.com/nya-nya-nyan/yandex_practicum/tree/1e4676725c0904c697e2478c206c56c836802961/medical%20center)| Сравнение работы медицинского центра за 2021 и 8 месяцев 2022 года. Анализ выручки и изменений цен на лечение. | python, pandas, seaborn, matplotlib, numpy |
 |   |         |           |
 |  |       |       |
 
@@ -10,6 +10,6 @@
 #### Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных".
 |**Название проекта**                 |       **Описание проекта**          |       **Стек** 
 |:-------------: |:---------------:| :-------------:|
-|[Анализ рынка общепита г.Москвы](https://github.com/nya-nya-nyan/Test/tree/00d2486b4e6b47426aa355de5db4418a81bfc7bf/public%20catering)|Поиск особенностей и закономерностей, которые помогли бы в выборе места для открытия будущего заведения.|pandas, plotly, seaborn, folium, numpy, matplotlib|
-|[Анализ поведения пользователей мобильного приложения](https://github.com/nya-nya-nyan/Test/tree/00d2486b4e6b47426aa355de5db4418a81bfc7bf/mobile%20app)|Изучение результатов A/A/B-эксперимента, проведенного в связи со сменой шрифтов в приложении.|pandas, stats, numpy, plotly, math, matplotlib|
-|[Анализ эффективности рекламы развлекательного приложения](https://github.com/nya-nya-nyan/Test/tree/00d2486b4e6b47426aa355de5db4418a81bfc7bf/mobile%20app%20advertising)|Маркетинговый анализ данных, рассчет удержания и конверсии|pandas, plotly, seaborn, datetime, matplotlib|
+|[Анализ рынка общепита г.Москвы](https://github.com/nya-nya-nyan/yandex_practicum/tree/1e4676725c0904c697e2478c206c56c836802961/public%20catering)|Исследовательский анализ с целью выбора места для открытия будущего заведения.|pandas, plotly, seaborn, folium, numpy, matplotlib|
+|[Анализ поведения пользователей](https://github.com/nya-nya-nyan/yandex_practicum/tree/1e4676725c0904c697e2478c206c56c836802961/mobile%20app)|Изучение результатов A/A/B-эксперимента, проведенного в связи со сменой шрифтов в приложении.|pandas, stats, numpy, plotly, math, matplotlib|
+|[Анализ эффективности рекламы](https://github.com/nya-nya-nyan/yandex_practicum/tree/1e4676725c0904c697e2478c206c56c836802961/mobile%20app%20advertising)|Маркетинговый анализ данных, рассчет удержания и конверсии|pandas, plotly, seaborn, datetime, matplotlib|
